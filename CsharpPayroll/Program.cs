@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace CsharpPayroll
+namespace CSProject
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Oh hey, hi");
+
+
+            Console.Read();
         }
     }
 }
